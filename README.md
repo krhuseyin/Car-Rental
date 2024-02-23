@@ -1,17 +1,13 @@
-# Car-Renta; Website
+# Car-Rental; Website
 A responsive website developed
 
-# Kullanılan Teknolojiler
+# Technologies used
 - HTML
 - CSS
 
-# Ekran Görüntüleri
+# Screen captures
 
-![](images/Car%20Website%20–%201@2x.png)
-
-# Video
-
-![](images/carrental.mp4)
+![](images/screencapture.png)
 
 # GIF
 
